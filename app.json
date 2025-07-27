@@ -1,4 +1,4 @@
-{
+y{
   "name": "CASEYRHODES-XMD",
   "description": "An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Caseyrhodes tech",
   "logo": "https://files.catbox.moe/vcdwmp.jpg",
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Caseyrhodes~HwpQmI4C#-XcsAd46EYc4uJcjxXNh64LuSsL_fdS-uuzG5SLa5ao",
       "required": true,
       "value": "Caseyrhodes~HwpQmI4C#-XcsAd46EYc4uJcjxXNh64LuSsL_fdS-uuzG5SLa5ao"
     },  
