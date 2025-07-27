@@ -8,10 +8,9 @@ y{
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Caseyrhodes~HwpQmI4C#-XcsAd46EYc4uJcjxXNh64LuSsL_fdS-uuzG5SLa5ao",
+      "description": "",
       "required": true,
-      "value": "Caseyrhodes~HwpQmI4C#-XcsAd46EYc4uJcjxXNh64LuSsL_fdS-uuzG5SLa5ao"
-    },  
+      "value": "Caseyrhodes~HwpQmI4C#-XcsAd46EYc4uJcjxXNh64LuSsL_fdS-uuzG5SLa5ao" },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
